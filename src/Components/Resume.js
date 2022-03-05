@@ -21,13 +21,15 @@ class Resume extends Component {
         return <li key={skills.name}><span style={{ width: skills.level }} className={className}></span><em>{skills.name}</em></li>
       })
     }
-
+    let style1 = {
+      paddingBottom: '15px'
+    }
     return (
       <section id="resume">
         {/* <h1 className="responsive-headline"> 为什么要加入 TYPE V DAO？ </h1>
         <hr /> */}
         <div className="row title1">
-          <h1>为什么要加入</h1>
+          <h1 style={style1}>为什么要加入</h1>
           <h1>TYPE V DAO？</h1>
           <hr />
         </div>
@@ -56,7 +58,12 @@ class Resume extends Component {
           <hr />
         </div>
         <div className="row timeMsg">
-          <p>根据个人时间安排，可以自由选择参与的形式。比如每天轻松地在咖啡时间翻翻TYPE V DAO提供的高质量研报；也可以与社区内的开发者、投资人或艺术家们深度探讨各自的想法；亦或是选择成为一个全职/兼职的社区建设者。TYPE V DAO致力于打造Web 3.0世界的中文社区大本营，每个小伙伴都可以在这片乐土找到自己的舒适区。</p>
+          <p>根据个人时间安排，可以自由选择参与的形式。</p>
+          <p>比如每天轻松地在咖啡时间翻翻TYPE V DAO提供的高质量研报；</p>
+          <p>也可以与社区内的开发者、投资人或艺术家们深度探讨各自的想法；</p>
+          <p>亦或是选择成为一个全职/兼职的社区建设者。</p>
+          <p>TYPE V DAO致力于打造Web 3.0世界的中文社区大本营，每个小伙伴都可以</p>
+          <p>在这片乐土找到自己的舒适区。</p>
         </div>
 
         {/* <div className="row education">
