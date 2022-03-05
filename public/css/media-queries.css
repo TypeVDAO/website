@@ -61,10 +61,60 @@
   /* Resume Section
    ------------------------------------------------------------------- */
   #resume h1 {
-    font: 50px/1.1em "PingFang SC", sans-serif;
+    font: 30px/1.1em "PingFang SC", sans-serif;
+    font-weight: 700;
+  }
+  #resume h1.title1 {
+    width: 85%;
+    padding-bottom: 50px;
+  }
+  #resume .title2 {
+    width: 85%;
+  }
+  #resume .title1 {
+    width: 85%;
+    margin: auto;
+    padding-bottom: 0px;
+  }
+  #resume .timeMsg {
+    text-align: justify;
+    /* padding: 0px 10px; */
+    margin: auto;
+    width: 85%;
+  }
+  #resume h1.title2 {
+    font: 30px/1.1em "PingFang SC", sans-serif;
+    margin-top: 100px;
   }
   #resume .main-col {
     padding-right: 5%;
+  }
+  #resume h2 {
+    font: 25px "PingFang SC", sans-serif;
+    width: 700;
+    color: #ffffff;
+    font-weight: 500;
+  }
+
+  .education,
+  /* .work {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+  } */
+  #portfolio h1 {
+    font: 30px/1.1em "PingFang SC", sans-serif;
+    font-weight: 700;
+  }
+  #portfolio .title1 {
+    width: 85%;
+    margin: auto;
+    padding-bottom: 0px;
+  }
+  #portfolio .timeMsg {
+    text-align: justify;
+    /* padding: 0px 10px; */
+    margin: auto;
+    width: 85%;
   }
 
   /* Testimonials Section
@@ -249,6 +299,15 @@
   #resume h1 {
     letter-spacing: 3px;
   }
+  #resume .columns {
+    padding: 0px;
+  }
+  #resume p {
+    font-size: 14.5px;
+  }
+  /* #resume .timeMsg {
+    padding: 0px 30px;
+  } */
   #resume .main-col {
     padding-right: 30px;
   }
@@ -256,7 +315,11 @@
   #resume .info {
     text-align: center;
   }
-
+  .education,
+  .work {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+  }
   .bars {
     width: 100%;
   }
@@ -284,13 +347,21 @@
 
   /* Portfolio Section
    /* ----------------------------------------------------------------- */
+  #portfolio h1.title1 {
+    font: 30px/1.1em "PingFang SC", sans-serif;
+    width: 85%;
+    padding-bottom: 50px;
+  }
   #portfolio-wrapper .columns {
     margin-bottom: 40px;
   }
   .popup-modal {
     max-width: 85%;
   }
-
+  #portfolio p {
+    text-align: justify;
+    font-size: 14.5px;
+  }
   /* Testimonials Section
    ----------------------------------------------------------------------- */
   #testimonials .text-container {
