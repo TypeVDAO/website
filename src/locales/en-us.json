@@ -2,7 +2,8 @@
   "hearder":{
     "nav":{
       "home":"home",
-      "about":"about"
+      "about":"about",
+      "locales":"English/Chinese"
     },
     "welcome":"Welcome TYPE V DAO",
     "about1":"In 1964, astrophysicist Nikolai Kardashev designed the Kardashev scale, measuring a civilization’s technological advancement based upon how much usable energy it has at its disposal. TYPE V civilization is the top class and it would be able to utilize the energy in not only its own universe, but in all universes.  ",
@@ -28,7 +29,7 @@
     "j6": "TYPE V DAO is your base camp in the Web 3.0 world, there’s a place for everyone."
   },
   "portfolio":{
-    "title":"VD Community roadmap",
+    "title":"TVD Community roadmap",
     "t1":"We believe a thriving community culture is the silver bullet. ",
     "t2":"We are keen to build a strong connection between community and its members by prioritizing high quality output over number of members at this stage and will increase our influence afterwards.",
     "t3":"Currently TYPE V DAO discord server is open to members who have been invited only. Our community NFT project is well underway, NFTs will be treated as a community membership card and will be distributed in batches in the form of whitelist. Please follow us on Twitter for updates."
