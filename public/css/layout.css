@@ -72,10 +72,10 @@ header .banner-text {
 header .banner-text .twittter-join {
   height: 90px;
   background: url(../images/twitter1.svg) no-repeat center;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 header .banner-text h1 {
-  font: 90px/1.1em "PingFang SC", sans-serif;
+  font: 70px/1.1em "PingFang SC", sans-serif;
   font-weight: 500;
   color: #fff;
   letter-spacing: -2px;
@@ -83,7 +83,7 @@ header .banner-text h1 {
   text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.8);
 }
 header .banner-text h3 {
-  font: 24px/1.9em "PingFang SC", serif;
+  font: 15px/1.9em "PingFang SC", serif;
   color: #ffffff;
   margin: 0 auto;
   width: 70%;

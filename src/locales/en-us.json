@@ -1,0 +1,40 @@
+{
+  "hearder":{
+    "nav":{
+      "home":"home",
+      "about":"about"
+    },
+    "welcome":"Welcome TYPE V DAO",
+    "about1":"In 1964, astrophysicist Nikolai Kardashev designed the Kardashev scale, measuring a civilization’s technological advancement based upon how much usable energy it has at its disposal. TYPE V civilization is the top class and it would be able to utilize the energy in not only its own universe, but in all universes.  ",
+    "about2":"We use TYPE V as a metaphor to embark Web3.0 enthusiasts who have strong execution and learning skills to travel with us on this incredible voyage. By initiating Web3.0 projects, investing in digital assets, developing friendship, we can obtain happiness as well as economic benefits from the learning and travelling we have done together in TYPE V DAO community."
+  },
+  "resume":{
+    "whyjoin1":"Why join TYPE V DAO？",
+    "whyjoin2":"",
+    "item1":"For individual crypto investors",
+    "item1Content":"This is your learning hub. You will be able to keep up with the latest industry developments and market trends, building a structured framework to capture opportunities in different market segments.",
+    "item2":"For Web3.0 entrepreneurs",
+    "item2Content":"This is your Web3.0 incubator. You can discuss challenges with industry experts in the community, expanding your business network with Web3.0 practitioners around the globe. For qualified projects, we provide community funding to turn your ideas into reality even faster. TYPE V DAO is here to support your big ideas.",
+    "item3":"For career opportunities",
+    "item3Content":"Join our guilds and project groups. Sharpen your Web3.0 skill sets, get full time/part time job, and get paid by participating in guild tasks or projects. It’s time to build your crypto resume.",
+    "item4":"For institutional investors",
+    "item4Content":"Take a deep dive into our TYPE V DAO community. You will be able to take a closer look at Web3.0 industry and granted access to a professional network of reliable Web3.0 entrepreneurs and practitioners. By sharing resources within the community, you will have priority to support and incubate early-stage projects and obtain institutional level benefits.",
+    "jointime":"How to find the perfect pace?",
+    "j1": "You can keep up with TYPE V DAO in various ways.",
+    "j2": "You can take a quick look at high-quality research reports produced by TYPE V DAO during coffee break everyday, ",
+    "j3": "or spend 1 or 2 hours to have an in-depth discussion with developers,",
+    "j4": "investors or artists in the community regarding your ideas. ",
+    "j5": "What’s more, you can also become a full-time/part-time community builder. ",
+    "j6": "TYPE V DAO is your base camp in the Web 3.0 world, there’s a place for everyone."
+  },
+  "portfolio":{
+    "title":"VD Community roadmap",
+    "t1":"We believe a thriving community culture is the silver bullet. ",
+    "t2":"We are keen to build a strong connection between community and its members by prioritizing high quality output over number of members at this stage and will increase our influence afterwards.",
+    "t3":"Currently TYPE V DAO discord server is open to members who have been invited only. Our community NFT project is well underway, NFTs will be treated as a community membership card and will be distributed in batches in the form of whitelist. Please follow us on Twitter for updates."
+
+  },
+  "footer":{
+    
+  }
+}

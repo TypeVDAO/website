@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import { Translation } from 'react-i18next';
 class Portfolio extends Component {
   render() {
 
@@ -24,18 +24,22 @@ class Portfolio extends Component {
     }
 
     return (
-      <section id="portfolio">
+      <Translation>
+        {t => (
+          <section id="portfolio">
 
-        <div className="row title1">
-          <h1>TYPE V DAO建设时间线</h1>
-          <hr />
-        </div>
-        <div className="row timeMsg">
-          <p>TYPE V DAO社区目前仅限邀请，我们致力于打造精品社群，以沉淀高品质产</p>
-          <p>出为优先级目标，进而运营用户增长，逐步扩大社群影响力。</p>
-          <p>社区NFT项目设计正在有条不紊的进行中。</p>
-        </div>
-      </section>
+            <div className="row title1">
+              <h1>{t('portfolio.title')}</h1>
+              <hr />
+            </div>
+            <div className="row timeMsg">
+              <p>{t('portfolio.t1')}</p>
+              <p>{t('portfolio.t2')}</p>
+              <p>{t('portfolio.t3')}</p>
+            </div>
+          </section>
+        )}
+      </Translation>
     );
   }
 }
