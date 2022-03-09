@@ -36,7 +36,7 @@ class Header extends Component {
                      <ul id="nav" className="nav">
                         <li className="current"><a className="smoothscroll" href="#home">{t('hearder.nav.home')}</a></li>
                         <li><a className="smoothscroll" href="#resume">{t('hearder.nav.about')}</a></li>
-                        <li><a className="smoothscroll" onClick={() => this.c()}><i className="fa fa-language" aria-hidden="true"></i> {(t('hearder.nav.locales'))}</a></li>
+                        <li><a className="smoothscroll" href="#" onClick={() => this.c()}><i className="fa fa-language" ></i> {(t('hearder.nav.locales'))}</a></li>
                      </ul>
 
                   </nav>
