@@ -445,6 +445,7 @@
 
   /* copyright */
   footer .copyright li:before {
+    color: antiquewhite;
     content: none;
   }
   footer .copyright li {

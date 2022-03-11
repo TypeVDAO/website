@@ -1140,6 +1140,7 @@ footer a:focus {
 
 /* copyright */
 footer .copyright {
+  color: antiquewhite;
   margin: 0;
   padding: 0;
 }
