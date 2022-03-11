@@ -496,7 +496,10 @@
     font: 14px/1.9em "librebaskerville-regular", sans-serif;
     width: 90%;
   }
-
+  header .banner-text h4 {
+    font: 14px/1.9em "librebaskerville-regular", sans-serif;
+    width: 90%;
+  }
   /* header social links */
   header .social {
     font-size: 20px;
