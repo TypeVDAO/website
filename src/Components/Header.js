@@ -46,12 +46,14 @@ class Header extends Component {
                      <div className="banner-text">
                         <h1 className="responsive-headline"> {t('hearder.welcome')} </h1>
                         <div className='twittter-join' onClick={() => { window.location.href = 'https://twitter.com/TypeV_official'; }}></div>
-                        <h3>
-                           {t('hearder.about1')}
-                        </h3>
-                        <h3>
-                           {t('hearder.about2')}
-                        </h3>
+                        <section>
+                           <h3>
+                              {t('hearder.about1')}
+                           </h3>
+                           <h3>
+                              {t('hearder.about2')}
+                           </h3>
+                        </section>
                      </div>
                   </div>
 
