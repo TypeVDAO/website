@@ -15,6 +15,10 @@
   "background_color": "#ffffff",
   "rewrites": [
     {
+      "source": "/sitemap.xml",
+      "destination": "/sitemap.xml"
+    },
+    {
       "source": "/google8aec5825abb11fd3.html",
       "destination": "/google8aec5825abb11fd3.html"
     },
