@@ -9,7 +9,7 @@ import './App.css';
 
 const loading = (
   <div>
-    loading...
+    TypeVdao loading...
   </div>
 )
 
