@@ -3,7 +3,8 @@
     "nav":{
       "home":"home",
       "about":"about",
-      "locales":"English/Chinese"
+      "locales":"Chinese/English",
+      "mlocales":"CN/EN"
     },
     "welcome":"Welcome TYPE V DAO",
     "about1":"In 1964, astrophysicist Nikolai Kardashev designed the Kardashev scale, measuring a civilization’s technological advancement based upon how much usable energy it has at its disposal. TYPE V civilization is the top class and it would be able to utilize the energy in not only its own universe, but in all universes.  ",

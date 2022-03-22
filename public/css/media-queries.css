@@ -181,7 +181,20 @@
     top: 0px;
     right: 30px;
   }
-
+  #nav-wrap a.mobile-btn.cl {
+    width: 150px;
+    background-color: transparent;
+    color: white;
+    font: icon;
+    text-align: end;
+    margin-top: 8px;
+    margin-right: 10px;
+    font-size: large;
+  }
+  #nav-wrap a.mobile-btn.cl:before,
+  #nav-wrap a.mobile-btn.cl:after {
+    border: 0px;
+  }
   #nav-wrap > a:before,
   #nav-wrap > a:after {
     position: absolute;
@@ -197,6 +210,8 @@
 
   /* toggle buttons */
   #nav-wrap:not(:target) > a:first-of-type,
+  #nav-wrap:not(:target) > a:last-of-type,
+  #nav-wrap:target > a:first-of-type,
   #nav-wrap:target > a:last-of-type {
     display: block;
   }

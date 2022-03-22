@@ -32,7 +32,7 @@ class Header extends Component {
 
                      <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
                      <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
-
+                     <a className="mobile-btn cl" href="#1" onClick={() => this.c()}><i className="fa fa-language" ></i> {(t('hearder.nav.mlocales'))} </a>
                      <ul id="nav" className="nav">
                         <li className="current"><a className="smoothscroll" href="#home">{t('hearder.nav.home')}</a></li>
                         <li><a className="smoothscroll" href="#resume">{t('hearder.nav.about')}</a></li>
